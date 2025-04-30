@@ -1,4 +1,4 @@
-All Code is property or Chris Bushelman - Created for EdX Bootcamp Module 10 Challenge
+All Code is property or Chris Bushelman
 
 In this module, using sqlalchemy, pandas, numpy, matplotlib, Flask and other python modules, we were tasked with creating an app to give us information about the weather in Hawaii.  
 
